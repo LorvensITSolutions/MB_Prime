@@ -186,7 +186,7 @@ export const projects = [
     imageHover: Prime_Villas_Image_Hover,
     logo: 'https://res.cloudinary.com/durbtkhbz/image/upload/v1770526685/sklmlogo_c2trtg.png',
     favicon: 'https://res.cloudinary.com/dgmrbxuvb/image/upload/v1771063124/sklmlogo_c2trtg_wk10v3_cztpx0.ico',
-    masterPlan: 'https://res.cloudinary.com/dcrdkvt2q/image/upload/v1770968591/villas_plots_jpg.jpg_hovhc9.jpg',
+    masterPlan: 'https://res.cloudinary.com/durbtkhbz/image/upload/v1770890531/layoutwithoutbg_ukvdoc.png',
     locationMap: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2716.7785112791116!2d83.91691247334634!3d18.359791274069345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3c6b1319544a1d%3A0x8d95f21e30a1bdac!2sMB%20PRIME%20VILLAS%20PLOTS!5e1!3m2!1sen!2sin!4v1771046346979!5m2!1sen!2sin',
     layoutHighlights: [
       [
@@ -279,7 +279,7 @@ export const projects = [
         title: 'Exclusive Clubhouse',
         desc: 'Swimming Pool, Three Badminton Courts & Leisure Facilities',
         icon: 'Home',
-        image: 'https://res.cloudinary.com/dcrdkvt2q/image/upload/v1770964115/clubhosuse-pin_ec2spg.jpg'
+        image: 'https://res.cloudinary.com/durbtkhbz/image/upload/v1773636721/MBP_CH2.jpg_1_muchih.jpg'
       },
       {
         title: 'Water Theme Park',
